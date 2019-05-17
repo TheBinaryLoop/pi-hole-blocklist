@@ -2,3 +2,4 @@ bild.de
 mellowads.com
 s3.c.adhitzads.com
 adclick.g.doubleclick.net
+cdn.zomap.de
